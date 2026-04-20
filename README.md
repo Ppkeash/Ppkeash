@@ -46,8 +46,8 @@ produzco música emo rap / emo trap. Creo en mejorar poco a poco, con método y 
 > Single-page landing con diseño sutil y elegante. Incluye sección de **programación** y **doblaje / voice over**.  
 `React` · `CSS` · `Diseño propio`
 
-[![Programación](https://img.shields.io/badge/-Portafolio%20Dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-yval.netlify.app/programacion)
-[![Doblaje](https://img.shields.io/badge/-Voice%20Over%20%26%20Doblaje-6A0DAD?style=for-the-badge&logo=audiomack&logoColor=white)](https://portafolio-yval.netlify.app/doblaje)
+[![Programación](https://img.shields.io/badge/-Portafolio%20Dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-yvals.netlify.app/programacion)
+[![Doblaje](https://img.shields.io/badge/-Voice%20Over%20%26%20Doblaje-6A0DAD?style=for-the-badge&logo=audiomack&logoColor=white)](https://portafolio-yvals.netlify.app/doblaje)
 
 ---
 
@@ -77,7 +77,7 @@ produzco música emo rap / emo trap. Creo en mejorar poco a poco, con método y 
 
 ¿Necesitas una voz para tu proyecto? También me dedico al doblaje y voice over.  
 
-[![Ver portafolio de doblaje](https://img.shields.io/badge/-Ver%20portafolio%20de%20doblaje-6A0DAD?style=for-the-badge&logo=audiomack&logoColor=white)](https://portafolio-yval.netlify.app/doblaje)
+[![Ver portafolio de doblaje](https://img.shields.io/badge/-Ver%20portafolio%20de%20doblaje-6A0DAD?style=for-the-badge&logo=audiomack&logoColor=white)](https://portafolio-yvals.netlify.app/doblaje)
 
 ---
 
