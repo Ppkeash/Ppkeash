@@ -4,7 +4,7 @@
 
 ### Desarrollador Web Junior · Freelancer · Creador de Música 🎵
 
-[![Location](https://img.shields.io/badge/📍-Bogota%2C%20Colombia-blue?style=flat-square)](https://maps.google.com/?q=Bogota,Cundinamarca)
+[![Location](https://img.shields.io/badge/📍-Bogotá%2C%20Colombia-blue?style=flat-square)](https://maps.google.com/?q=Bogota,Colombia)
 [![Status](https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-brightgreen?style=flat-square)]()
 
 </div>
@@ -27,19 +27,27 @@ produzco música emo rap / emo trap. Creo en mejorar poco a poco, con método y 
 
 ## 🛠️ Tecnologías & Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,postgres,git,github,vscode,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,mysql,mongodb,postgres,tailwind,git,github,vscode,idea,docker)](https://skillicons.dev)
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 🌍 [TECNILAND Nexus Launcher](https://github.com/Ppkeash)
+### 🌍 TECNILAND Nexus Launcher
 > Launcher personalizado con autenticación propia. Punto de entrada al universo TECNILAND.  
 `React` · `Node.js` · `Auth`
 
-### 💼 [Portafolio Personal](https://portafolio-yval.netlify.app/programacion)
-> Single-page landing con diseño sutil y elegante. También incluye una sección de **doblaje y voice over**.  
+[![Repo](https://img.shields.io/badge/-Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ppkeash/TECNILAND-Nexus)
+[![Web](https://img.shields.io/badge/-Página%20oficial-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://tecnilandnex.online/)
+
+---
+
+### 💼 Portafolio Personal
+> Single-page landing con diseño sutil y elegante. Incluye sección de **programación** y **doblaje / voice over**.  
 `React` · `CSS` · `Diseño propio`
+
+[![Programación](https://img.shields.io/badge/-Portafolio%20Dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-yval.netlify.app/programacion)
+[![Doblaje](https://img.shields.io/badge/-Voice%20Over%20%26%20Doblaje-6A0DAD?style=for-the-badge&logo=audiomack&logoColor=white)](https://portafolio-yval.netlify.app/doblaje)
 
 ---
 
@@ -68,9 +76,8 @@ produzco música emo rap / emo trap. Creo en mejorar poco a poco, con método y 
 ## 🎙️ Voice Over & Doblaje
 
 ¿Necesitas una voz para tu proyecto? También me dedico al doblaje y voice over.  
-Échale un ojo a mi portafolio:
 
-[![Portafolio](https://img.shields.io/badge/-Ver%20portafolio%20completo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-yval.netlify.app/programacion)
+[![Ver portafolio de doblaje](https://img.shields.io/badge/-Ver%20portafolio%20de%20doblaje-6A0DAD?style=for-the-badge&logo=audiomack&logoColor=white)](https://portafolio-yval.netlify.app/doblaje)
 
 ---
 
