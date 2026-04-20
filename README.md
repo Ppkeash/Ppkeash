@@ -4,7 +4,7 @@
 
 ### Desarrollador Web Junior · Freelancer · Creador de Música 🎵
 
-[![Location](https://img.shields.io/badge/📍-Funza%2C%20Colombia-blue?style=flat-square)](https://maps.google.com/?q=Funza,Cundinamarca)
+[![Location](https://img.shields.io/badge/📍-Bogota%2C%20Colombia-blue?style=flat-square)](https://maps.google.com/?q=Bogota,Cundinamarca)
 [![Status](https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-brightgreen?style=flat-square)]()
 
 </div>
